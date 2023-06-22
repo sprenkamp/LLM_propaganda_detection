@@ -1,0 +1,8 @@
+Doubt
+Appeal_to_Authority
+Loaded_Language
+Causal_Oversimplification
+Repetition
+Bandwagon,Reductio_ad_hitlerum
+Exaggeration,Minimisation
+Name_Calling,Labeling

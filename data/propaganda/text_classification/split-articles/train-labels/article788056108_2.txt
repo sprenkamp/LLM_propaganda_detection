@@ -1,0 +1,6 @@
+Causal_Oversimplification
+Bandwagon,Reductio_ad_hitlerum
+Appeal_to_fear-prejudice
+Doubt
+Whataboutism,Straw_Men,Red_Herring
+Name_Calling,Labeling

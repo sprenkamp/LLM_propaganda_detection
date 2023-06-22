@@ -1,0 +1,5 @@
+Doubt
+Repetition
+Loaded_Language
+Exaggeration,Minimisation
+Name_Calling,Labeling

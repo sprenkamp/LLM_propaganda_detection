@@ -1,0 +1,4 @@
+Loaded_Language
+Causal_Oversimplification
+Name_Calling,Labeling
+Bandwagon,Reductio_ad_hitlerum

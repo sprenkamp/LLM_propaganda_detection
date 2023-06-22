@@ -1,0 +1,8 @@
+Black-and-White_Fallacy
+Appeal_to_fear-prejudice
+Appeal_to_Authority
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Exaggeration,Minimisation
+Bandwagon,Reductio_ad_hitlerum
+Name_Calling,Labeling

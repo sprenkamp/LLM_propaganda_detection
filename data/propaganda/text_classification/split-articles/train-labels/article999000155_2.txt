@@ -1,0 +1,3 @@
+Loaded_Language
+Causal_Oversimplification
+Bandwagon,Reductio_ad_hitlerum

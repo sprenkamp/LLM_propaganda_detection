@@ -1,0 +1,6 @@
+Thought-terminating_Cliches
+Exaggeration,Minimisation
+Loaded_Language
+Slogans
+Whataboutism,Straw_Men,Red_Herring
+Name_Calling,Labeling

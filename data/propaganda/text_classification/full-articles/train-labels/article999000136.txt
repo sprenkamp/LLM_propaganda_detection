@@ -1,0 +1,6 @@
+Flag-Waving
+Loaded_Language
+Repetition
+Thought-terminating_Cliches
+Exaggeration,Minimisation
+Name_Calling,Labeling

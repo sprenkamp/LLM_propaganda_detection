@@ -1,0 +1,10 @@
+Appeal_to_fear-prejudice
+Doubt
+Flag-Waving
+Loaded_Language
+Causal_Oversimplification
+Repetition
+Whataboutism,Straw_Men,Red_Herring
+Exaggeration,Minimisation
+Bandwagon,Reductio_ad_hitlerum
+Name_Calling,Labeling

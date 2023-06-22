@@ -1,0 +1,6 @@
+Causal_Oversimplification
+Bandwagon,Reductio_ad_hitlerum
+Flag-Waving
+Doubt
+Whataboutism,Straw_Men,Red_Herring
+Thought-terminating_Cliches

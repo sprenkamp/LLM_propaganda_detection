@@ -1,0 +1,4 @@
+Name_Calling,Labeling
+Doubt
+Exaggeration,Minimisation
+Repetition

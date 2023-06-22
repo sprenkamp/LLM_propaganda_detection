@@ -1,0 +1,5 @@
+Causal_Oversimplification
+Flag-Waving
+Exaggeration,Minimisation
+Slogans
+Name_Calling,Labeling

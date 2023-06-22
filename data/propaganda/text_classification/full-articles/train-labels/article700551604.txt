@@ -1,0 +1,7 @@
+Doubt
+Flag-Waving
+Loaded_Language
+Causal_Oversimplification
+Bandwagon,Reductio_ad_hitlerum
+Exaggeration,Minimisation
+Name_Calling,Labeling

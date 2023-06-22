@@ -1,0 +1,3 @@
+Appeal_to_fear-prejudice
+Exaggeration,Minimisation
+Whataboutism,Straw_Men,Red_Herring

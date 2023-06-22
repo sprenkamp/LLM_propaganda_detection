@@ -1,0 +1,4 @@
+Exaggeration,Minimisation
+Bandwagon,Reductio_ad_hitlerum
+Loaded_Language
+Name_Calling,Labeling

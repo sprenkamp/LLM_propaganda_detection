@@ -1,0 +1,5 @@
+Loaded_Language
+Causal_Oversimplification
+Whataboutism,Straw_Men,Red_Herring
+Slogans
+Name_Calling,Labeling

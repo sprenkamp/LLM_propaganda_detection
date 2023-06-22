@@ -1,0 +1,5 @@
+Loaded_Language
+Causal_Oversimplification
+Repetition
+Whataboutism,Straw_Men,Red_Herring
+Exaggeration,Minimisation

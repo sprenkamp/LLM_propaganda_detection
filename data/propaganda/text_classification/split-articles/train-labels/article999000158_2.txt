@@ -1,0 +1,3 @@
+Loaded_Language
+Exaggeration,Minimisation
+Bandwagon,Reductio_ad_hitlerum

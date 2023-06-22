@@ -1,0 +1,3 @@
+Exaggeration,Minimisation
+Repetition
+Whataboutism,Straw_Men,Red_Herring

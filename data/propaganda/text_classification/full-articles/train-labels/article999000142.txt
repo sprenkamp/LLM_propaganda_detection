@@ -1,0 +1,4 @@
+Name_Calling,Labeling
+Causal_Oversimplification
+Exaggeration,Minimisation
+Loaded_Language

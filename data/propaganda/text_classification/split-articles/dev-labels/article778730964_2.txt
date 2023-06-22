@@ -1,0 +1,4 @@
+Name_Calling,Labeling
+Exaggeration,Minimisation
+Doubt
+Bandwagon,Reductio_ad_hitlerum

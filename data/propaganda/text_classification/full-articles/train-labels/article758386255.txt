@@ -1,0 +1,7 @@
+Black-and-White_Fallacy
+Repetition
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Bandwagon,Reductio_ad_hitlerum
+Exaggeration,Minimisation
+Name_Calling,Labeling

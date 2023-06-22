@@ -1,0 +1,7 @@
+Appeal_to_fear-prejudice
+Flag-Waving
+Repetition
+Causal_Oversimplification
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Name_Calling,Labeling

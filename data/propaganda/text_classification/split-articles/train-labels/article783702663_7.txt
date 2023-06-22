@@ -1,0 +1,6 @@
+Thought-terminating_Cliches
+Exaggeration,Minimisation
+Doubt
+Loaded_Language
+Appeal_to_Authority
+Name_Calling,Labeling

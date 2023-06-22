@@ -1,0 +1,6 @@
+Causal_Oversimplification
+Thought-terminating_Cliches
+Flag-Waving
+Exaggeration,Minimisation
+Loaded_Language
+Name_Calling,Labeling

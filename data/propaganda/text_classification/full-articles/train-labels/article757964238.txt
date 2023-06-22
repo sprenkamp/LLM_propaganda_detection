@@ -1,0 +1,6 @@
+Appeal_to_Authority
+Repetition
+Causal_Oversimplification
+Loaded_Language
+Exaggeration,Minimisation
+Name_Calling,Labeling

@@ -1,0 +1,11 @@
+Appeal_to_fear-prejudice
+Doubt
+Flag-Waving
+Appeal_to_Authority
+Loaded_Language
+Causal_Oversimplification
+Bandwagon,Reductio_ad_hitlerum
+Exaggeration,Minimisation
+Name_Calling,Labeling
+Slogans
+Thought-terminating_Cliches

@@ -1,0 +1,8 @@
+Doubt
+Flag-Waving
+Appeal_to_Authority
+Causal_Oversimplification
+Whataboutism,Straw_Men,Red_Herring
+Bandwagon,Reductio_ad_hitlerum
+Thought-terminating_Cliches
+Name_Calling,Labeling

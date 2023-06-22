@@ -1,0 +1,7 @@
+Doubt
+Loaded_Language
+Causal_Oversimplification
+Repetition
+Thought-terminating_Cliches
+Exaggeration,Minimisation
+Name_Calling,Labeling

@@ -1,0 +1,4 @@
+Exaggeration,Minimisation
+Loaded_Language
+Causal_Oversimplification
+Flag-Waving

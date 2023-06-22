@@ -1,0 +1,11 @@
+Black-and-White_Fallacy
+Doubt
+Flag-Waving
+Loaded_Language
+Causal_Oversimplification
+Repetition
+Whataboutism,Straw_Men,Red_Herring
+Exaggeration,Minimisation
+Slogans
+Name_Calling,Labeling
+Thought-terminating_Cliches

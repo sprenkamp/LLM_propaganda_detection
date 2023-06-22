@@ -1,0 +1,7 @@
+Causal_Oversimplification
+Exaggeration,Minimisation
+Doubt
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Name_Calling,Labeling
+Repetition

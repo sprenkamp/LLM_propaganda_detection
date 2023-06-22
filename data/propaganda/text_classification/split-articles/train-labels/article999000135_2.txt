@@ -1,0 +1,4 @@
+Loaded_Language
+Causal_Oversimplification
+Exaggeration,Minimisation
+Repetition

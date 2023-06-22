@@ -1,0 +1,5 @@
+Causal_Oversimplification
+Flag-Waving
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Repetition

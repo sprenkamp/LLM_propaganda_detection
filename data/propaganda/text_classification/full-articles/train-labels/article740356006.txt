@@ -1,0 +1,8 @@
+Doubt
+Appeal_to_Authority
+Loaded_Language
+Whataboutism,Straw_Men,Red_Herring
+Exaggeration,Minimisation
+Slogans
+Name_Calling,Labeling
+Thought-terminating_Cliches

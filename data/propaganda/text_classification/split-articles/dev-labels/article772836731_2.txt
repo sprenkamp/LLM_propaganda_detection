@@ -1,0 +1,6 @@
+Causal_Oversimplification
+Flag-Waving
+Loaded_Language
+Black-and-White_Fallacy
+Whataboutism,Straw_Men,Red_Herring
+Name_Calling,Labeling

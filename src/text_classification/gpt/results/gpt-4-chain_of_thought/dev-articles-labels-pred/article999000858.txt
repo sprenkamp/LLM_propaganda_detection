@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "begrudgingly recognized her rival’s victory" and "ridiculous temper tantrum" which carry strong emotional impact.
+
+Name_Calling,Labeling - The article refers to Brian Kemp as "Republican Brian Kemp" and Stacey Abrams as "Georgia gubernatorial candidate Stacey Abrams," creating a distinction between the two candidates.
+
+Exaggeration,Minimisation - The article quotes Brian Kemp accusing Stacey Abrams of having a "ridiculous temper tantrum," which minimizes her concerns about the election process.
+
+Appeal_to_fear-prejudice - The article mentions that many of Stacey Abrams' supporters are "minority and low-income voters who do not regularly vote," which could instill fear or prejudice in the audience.
+
+Doubt - The article questions the credibility of Stacey Abrams' claims by stating that her legal team is "considering all options" and that some Democratic legal observers note that she would be dependent on statutes that set a high bar for the court to intervene.

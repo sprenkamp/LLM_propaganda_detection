@@ -1,0 +1,13 @@
+Loaded_Language - The phrase "I did the right thing" carries a strong emotional impact, as it implies that Clinton's actions were morally correct.
+
+Name_Calling,Labeling - The article refers to Donald Trump as the "current occupant of the Oval Office," which can be seen as a label that distances him from the title of President.
+
+Repetition - The phrase "I did the right thing" is repeated twice in the article, reinforcing the idea that Clinton believes his actions were justified.
+
+Exaggeration,Minimisation - The article minimizes the significance of Clinton's public apology by stating that "some may not have taken what Clinton said as an apology."
+
+Appeal_to_fear-prejudice - The article appeals to fear by mentioning the "series of sexual misconduct allegations against current President Donald Trump," which can create anxiety in the audience.
+
+Whataboutism,Straw_Men,Red_Herring - The article attempts to discredit Trump by pointing out his sexual misconduct allegations, without directly disproving Clinton's argument about his own actions.
+
+Doubt - The article questions the sincerity of Clinton's public apology by stating that "some may not have taken what Clinton said as an apology."

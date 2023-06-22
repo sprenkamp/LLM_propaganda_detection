@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "Democrats, they do pick their “victims” well, don’t they?" and "I’ve been smeared, threatened, isolated from my own party" which carry strong emotional impact.
+
+Name_Calling,Labeling - The article labels Democrats as hypocritical and implies they are selectively choosing which victims to believe.
+
+Repetition - The article repeatedly emphasizes the idea that Democrats are not believing Karen Monahan's story and are treating her differently than Christine Blasey Ford.
+
+Exaggeration,Minimisation - The article exaggerates the Democratic Party's response to Monahan's allegations by stating they are "threatening to isolate her" and "finding time and cause to go after Brett Kavanaugh."
+
+Appeal_to_fear-prejudice - The article appeals to the fear of hypocrisy within the Democratic Party by comparing their treatment of Monahan and Ford.
+
+Whataboutism,Straw_Men,Red_Herring - The article attempts to discredit the Democratic Party's support for Ford by pointing out their lack of support for Monahan, without directly addressing the validity of either claim.
+
+Doubt - The article questions the credibility of the Democratic Party by highlighting their differing responses to Monahan and Ford's allegations.

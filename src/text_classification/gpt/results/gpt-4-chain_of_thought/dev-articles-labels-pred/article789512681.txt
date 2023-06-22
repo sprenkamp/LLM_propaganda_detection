@@ -1,0 +1,15 @@
+Loaded_Language - The article uses phrases like "effeminate man," "demonic religion," and "cop killers" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to Keith Ellison as "Hakim Muhammad," which is one of his Nation of Islam names, in an attempt to associate him with negative connotations.
+
+Repetition - The article repeatedly mentions Ellison's alleged support for cop killers and his association with the Nation of Islam to reinforce the negative image of him.
+
+Exaggeration,Minimisation - The article exaggerates Ellison's request for police protection by describing Laura Loomer as "armed with a mic and camera phone," making it seem like an overreaction.
+
+Appeal_to_fear-prejudice - The article appeals to fear by mentioning Ellison's association with the Nation of Islam and his alleged support for cop killers, suggesting that he is a threat to society.
+
+Flag-Waving - The article uses phrases like "freedom of some good decent people" and "fighting for freedom in the '60s and '70s" to appeal to the reader's sense of patriotism and national pride.
+
+Causal_Oversimplification - The article suggests that Ellison's association with the Nation of Islam and his alleged support for cop killers are the sole reasons for his unsuitability as attorney general, ignoring other factors that may be relevant.
+
+Doubt - The article questions Ellison's credibility by mentioning his alleged support for cop killers and his association with the Nation of Islam, as well as his lack of a valid attorney's license.

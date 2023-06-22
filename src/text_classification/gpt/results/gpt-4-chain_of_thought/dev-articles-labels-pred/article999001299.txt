@@ -1,0 +1,17 @@
+Loaded_Language - The article uses phrases like "lying CNN," "lying Jim Acosta," "little Jimmy," and "Clown News Network" to create a negative emotional impact on the audience.
+
+Name_Calling,Labeling - The author labels Jim Acosta as a "rude, terrible person" and calls CNN the "least trusted name in news" and "Clown News Network" to discredit them.
+
+Repetition - The article repeatedly emphasizes that having a White House press pass is a privilege, not a right, to support the argument against Acosta and CNN.
+
+Exaggeration,Minimisation - The author exaggerates the situation by claiming that CNN and Acosta have been lying for decades and minimizes the importance of the press pass issue by calling it "grandstanding."
+
+Appeal_to_fear-prejudice - The article implies that if Fox News supports CNN and Acosta, they are betraying their conservative audience and siding with the "enemy."
+
+Flag-Waving - The author appeals to the conservative audience's loyalty by questioning Fox News' allegiance and suggesting that they are not truly conservative.
+
+Causal_Oversimplification - The article assumes that Fox News supporting CNN and Acosta is solely because they are not truly conservative, ignoring other possible reasons for their support.
+
+Black-and-White_Fallacy - The author presents the situation as if there are only two options: either Fox News is conservative and against CNN and Acosta, or they are not conservative and support them.
+
+Doubt - The article questions the credibility of Fox News by suggesting that they are not truly conservative and are controlled opposition.

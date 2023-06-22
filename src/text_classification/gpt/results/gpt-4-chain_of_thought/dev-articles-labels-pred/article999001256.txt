@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "sore loser," "poor sport," and "arrogant wanna-be" to describe Stacey Abrams, which carry strong emotional impact and negatively affect the audience's perception of her.
+
+Name_Calling,Labeling - The article labels Stacey Abrams as a "sore loser" and compares her to Hillary Clinton, which is meant to evoke negative emotions in the audience.
+
+Exaggeration,Minimisation - The article minimizes Abrams' concerns about voter suppression by calling her actions a "temper tantrum" and suggesting that her claims have no evidence.
+
+Appeal_to_fear-prejudice - The article implies that if Abrams were elected, it would have been a disaster for Georgia, playing on the audience's fear of having a Democratic governor.
+
+Black-and-White_Fallacy - The article presents the situation as if there are only two options: either Abrams is a sore loser with no valid concerns, or she is a legitimate candidate with valid concerns. This ignores the possibility that some of her concerns may be valid while others are not.
+
+Doubt - The article questions the credibility of Abrams' claims by asking "Where is her evidence?" and suggesting that she has none, casting doubt on her arguments.

@@ -1,0 +1,8 @@
+Loaded_Language
+Name_Calling,Labeling
+Repetition
+Exaggeration,Minimisation
+Appeal_to_fear-prejudice
+Thought-terminating_Cliches
+Whataboutism,Straw_Men,Red_Herring
+Doubt

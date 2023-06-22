@@ -1,0 +1,7 @@
+model_name: gpt-4
+instruction: True
+prompt_type: base
+train_data_path: data/propaganda/text_classification/full-articles/train-articles
+train_label_path: data/propaganda/text_classification/full-articles/train-labels
+val_data_path: data/propaganda/text_classification/full-articles/dev-articles
+val_label_path: data/propaganda/text_classification/full-articles/dev-labels

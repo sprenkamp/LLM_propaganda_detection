@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "filthy trailer," "third world country refugees," and "dirty rags for clothing" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to the occupants as "Muslim Extremists," which is a label that carries strong negative connotations.
+
+Exaggeration,Minimisation - The article exaggerates the living conditions by comparing the children to "third world country refugees" and describing their clothing as "dirty rags."
+
+Appeal_to_fear-prejudice - The article instills fear by mentioning that the occupants were "heavily armed and considered extremist of the Muslim belief."
+
+Flag-Waving - The article appeals to the reader's sense of patriotism and national security by emphasizing the involvement of law enforcement agencies and the need for a "tactical approach."
+
+Causal_Oversimplification - The article implies that the occupants' religious beliefs are the sole reason for their actions, without considering other factors that may have contributed to the situation.
+
+Doubt - The article questions the credibility of the FBI by stating that they "didn’t feel there was enough probable cause to get on the property," implying that the local law enforcement had to take matters into their own hands.

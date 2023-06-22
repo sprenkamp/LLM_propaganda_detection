@@ -1,0 +1,9 @@
+Loaded_Language
+Name_Calling,Labeling
+Exaggeration,Minimisation
+Appeal_to_fear-prejudice
+Flag-Waving
+Causal_Oversimplification
+Thought-terminating_Cliches
+Whataboutism,Straw_Men,Red_Herring
+Doubt

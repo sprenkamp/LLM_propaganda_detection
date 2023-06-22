@@ -1,0 +1,17 @@
+Loaded_Language - The article uses phrases like "The Sharia is being implemented in the United Kingdom" and "Muslims are ready to seek total control" which carry strong emotional impact and can affect the audience's perception.
+
+Name_Calling,Labeling - The title of the article itself labels the situation as "More UK Sharia" which can evoke strong emotions in the audience.
+
+Repetition - The article repeats the phrase "Free Tommy Robinson" multiple times, emphasizing the message they want the audience to accept.
+
+Exaggeration,Minimisation - The article exaggerates the situation by claiming that the UK is implementing Sharia law and that Muslims are seeking total control, while minimizing the actual reason for the firefighter's suspension (supporting Tommy Robinson on Facebook).
+
+Appeal_to_fear-prejudice - The article builds support for the idea that the UK is under threat from Sharia law and Muslims by instilling fear and prejudice in the audience.
+
+Flag-Waving - The article plays on the audience's national feelings by presenting the situation as a threat to the UK's democracy and rule of law.
+
+Causal_Oversimplification - The article assumes that the firefighter's suspension is solely due to his support for Tommy Robinson, without considering other possible reasons or context.
+
+Whataboutism,Straw_Men,Red_Herring - The article attempts to discredit the UK's actions by comparing them to practices in North Korea and Saudi Arabia, without directly disproving the reasons for the firefighter's suspension.
+
+Doubt - The article questions the credibility of the UK's actions by suggesting that they are similar to practices in North Korea and Saudi Arabia, and by implying that there may be a plot to get rid of Tommy Robinson in prison.

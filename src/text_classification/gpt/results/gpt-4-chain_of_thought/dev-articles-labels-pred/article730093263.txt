@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "murder of two white Westerville, OH cops" and "Black Murders Of White Cops" which carry strong emotional impact and can affect the audience's perception of the event.
+
+Name_Calling,Labeling - The article labels the category as "Black Murders Of White Cops" and "Not Reporting Race," which can create a negative perception of the suspect and the media's handling of the case.
+
+Repetition - The article repeatedly mentions the race of the suspect and the victims, emphasizing the racial aspect of the case.
+
+Exaggeration,Minimisation - The article implies that if the situation were reversed and the suspect had died, the race issue would be more prominent, exaggerating the importance of race in this case.
+
+Appeal_to_fear-prejudice - The article suggests that the media is not reporting the race issue, which can instill fear and prejudice in the audience towards the suspect and the media's handling of the case.
+
+Doubt - The article questions the media's handling of the case by pointing out the lack of mention of the race issue, casting doubt on the credibility of the media.

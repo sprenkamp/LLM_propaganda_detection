@@ -1,0 +1,10 @@
+Loaded_Language
+Name_Calling,Labeling
+Repetition
+Exaggeration,Minimisation
+Flag-Waving
+Causal_Oversimplification
+Thought-terminating_Cliches
+Whataboutism,Straw_Men,Red_Herring
+Black-and-White_Fallacy
+Doubt

@@ -1,0 +1,25 @@
+Loaded_Language - The article uses emotionally charged phrases such as "totally insane," "neocon scum," and "corrupt filth" to describe the Democratic Party and its leaders.
+
+Name_Calling,Labeling - The article refers to the Democratic Party as "totally corrupted by the Clinton Regime" and calls its leaders "insane neoconservatives."
+
+Repetition - The article repeatedly emphasizes the idea that the Democratic Party and the media are working against peace and are trying to overthrow President Trump.
+
+Exaggeration,Minimisation - The article exaggerates the extent of the Democratic Party's corruption and minimizes the importance of concerns about Trump's relationship with Russia.
+
+Appeal_to_fear-prejudice - The article instills fear in the audience by suggesting that the Democratic Party and the media are pushing the world towards nuclear war and the destruction of Russia.
+
+Flag-Waving - The article appeals to patriotism by accusing the Democratic Party and the media of being against peace and working against the interests of the United States.
+
+Causal_Oversimplification - The article assumes that the sole reason for the Russiagate investigation is to prevent peace between the US and Russia, ignoring other potential factors.
+
+Appeal_to_Authority - The article cites the opinions of retired security professionals as conclusive proof that Russiagate is a hoax.
+
+Thought-terminating_Cliches - The article uses phrases like "brainwashed beyond all hope" to discourage critical thinking about the claims it makes.
+
+Whataboutism,Straw_Men,Red_Herring - The article attempts to discredit concerns about Trump's relationship with Russia by focusing on the alleged corruption of the Democratic Party and the media.
+
+Black-and-White_Fallacy - The article presents the situation as a choice between peace with Russia or the destruction of the Western world, ignoring other potential outcomes.
+
+Bandwagon,Reductio_ad_hitlerum - The article implies that anyone who believes the mainstream media or supports the Democratic Party is part of a dangerous and misguided group.
+
+Doubt - The article casts doubt on the credibility of the Democratic Party, the media, and the US government by accusing them of corruption and dishonesty.

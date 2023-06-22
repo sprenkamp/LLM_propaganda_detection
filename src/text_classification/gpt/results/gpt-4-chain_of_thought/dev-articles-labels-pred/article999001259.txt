@@ -1,0 +1,13 @@
+Loaded_Language - The phrases "Who didn’t see this coming?", "The fix is in.", "They stole Arizona.", and "One down three to go." are emotionally charged and imply manipulation and theft in the election process.
+
+Name_Calling,Labeling - The title "Obama Judge Rules To Upend Georgia Election" labels the judge as an "Obama Judge," implying a bias or political affiliation that may affect the ruling.
+
+Repetition - The article repeats the idea that the election is being manipulated or stolen, reinforcing the idea that the process is unfair.
+
+Exaggeration,Minimisation - The phrase "The fix is in." exaggerates the situation, implying a large-scale conspiracy to manipulate the election.
+
+Appeal_to_fear-prejudice - The article appeals to fear by suggesting that the election is being stolen or manipulated, creating anxiety about the democratic process.
+
+Flag-Waving - The article uses the term "Freedom Outpost" to appeal to a sense of patriotism and national pride.
+
+Doubt - The article questions the credibility of the judge and the election process by implying that the ruling is politically motivated and that the election is being manipulated.

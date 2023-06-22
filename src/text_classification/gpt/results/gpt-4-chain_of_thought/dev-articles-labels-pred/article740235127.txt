@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "illegal black ops operation" and "torture is what America is about" to create an emotional impact on the reader.
+
+Name_Calling,Labeling - The author labels Pompeo as "not a good fit to be a diplomat" and Haspel as someone who "should never lead the CIA."
+
+Exaggeration,Minimisation - The article minimizes the potential threat of North Korea by stating "I'm hardly worried that they will actually attack us."
+
+Appeal_to_fear-prejudice - The author suggests that people supporting the nominations of Pompeo and Haspel are "acting out of emotion and fear."
+
+Flag-Waving - The article appeals to the American identity by stating "We are not a people that should be so fearful or vengeful that we think that torture is somehow acceptable."
+
+Causal_Oversimplification - The author implies that the only reason people support these nominations is because they "do not know their Constitution."
+
+Doubt - The article questions the credibility of media reports and CIA involvement by mentioning a former journalist who claimed that "the media lies for the CIA."

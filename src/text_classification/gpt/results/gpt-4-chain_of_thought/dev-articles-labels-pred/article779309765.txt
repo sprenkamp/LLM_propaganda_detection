@@ -1,0 +1,19 @@
+Loaded_Language - The article uses phrases like "Sharia New Mexico," "Islamic compound jihadis," and "sharia trumps dead children" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to the suspects as "Islamic compound jihadis" and "extremist Muslims," which are labels that the audience may have strong negative feelings towards.
+
+Repetition - The article repeatedly emphasizes the suspects' religion and the alleged injustice of their release, reinforcing the idea that their religion is the main reason for their release.
+
+Exaggeration,Minimisation - The article exaggerates the role of religion in the case, suggesting that the suspects were released solely because they are Muslim, while minimizing other factors that may have influenced the judge's decision.
+
+Appeal_to_fear-prejudice - The article plays on the reader's fear of Islamic extremism by suggesting that the suspects were training children for school shootings and that their release poses a danger to the public.
+
+Flag-Waving - The article appeals to the reader's patriotism by comparing the case to the Waco incident and suggesting that the government's treatment of the suspects is a sign of the decline of American values.
+
+Causal_Oversimplification - The article suggests that the suspects' religion is the sole reason for their release, ignoring other factors that may have influenced the judge's decision.
+
+Whataboutism,Straw_Men,Red_Herring - The article brings up the Bundys and their supporters, as well as the Waco incident, as a way to discredit the judge's decision without directly addressing the specifics of the case.
+
+Black-and-White_Fallacy - The article presents the situation as if there are only two options: either the suspects are dangerous Islamic extremists who should be locked up, or they are innocent victims of Islamophobia.
+
+Doubt - The article questions the credibility of the judge's decision by suggesting that it was influenced by accusations of racism and Islamophobia, rather than a fair assessment of the evidence.

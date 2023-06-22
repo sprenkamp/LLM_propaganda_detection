@@ -1,0 +1,7 @@
+Loaded_Language
+Name_Calling,Labeling
+Repetition
+Exaggeration,Minimisation
+Flag-Waving
+Causal_Oversimplification
+Doubt

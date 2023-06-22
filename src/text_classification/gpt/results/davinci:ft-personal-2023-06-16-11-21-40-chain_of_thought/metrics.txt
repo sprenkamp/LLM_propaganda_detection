@@ -1,0 +1,24 @@
+Accuracy: 0.07662835249042145
+Hamming Loss: 0.17378215654077722
+Micro-Averaged Precision: 0.4861878453038674
+Micro-Averaged Recall: 0.2816
+Micro-Averaged F1-Score: 0.3566362715298886
+Subset Accuracy: 0.07662835249042145
+Macro-Averaged Precision: 0.20835318601122768
+Macro-Averaged Recall: 0.10909263568309802
+Macro-Averaged F1-Score: 0.1189169104379481
+F1-Score per Class:
+Appeal_to_Authority: 0.16666666666666669
+Appeal_to_fear-prejudice: 0.0
+Bandwagon,Reductio_ad_hitlerum: 0.0
+Black-and-White_Fallacy: 0.0
+Causal_Oversimplification: 0.0
+Doubt: 0.16216216216216217
+Exaggeration,Minimisation: 0.0821917808219178
+Flag-Waving: 0.0
+Loaded_Language: 0.7138964577656676
+Name_Calling,Labeling: 0.3132530120481928
+Repetition: 0.15999999999999998
+Slogans: 0.06666666666666667
+Thought-terminating_Cliches: 0.0
+Whataboutism,Straw_Men,Red_Herring: 0.0

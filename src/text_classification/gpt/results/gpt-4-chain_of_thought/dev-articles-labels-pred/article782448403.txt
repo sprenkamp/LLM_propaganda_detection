@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "inexplicably gave the green light," "needlessly endangered our children," and "dangerous and incompetent" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to California General Xavier Becerra as a "radical leftist gun grabbing anti-liberty" figure, which is a negative label meant to discredit him.
+
+Exaggeration,Minimisation - The article minimizes the potential dangers of 3D-printed guns by calling Becerra's statement "preposterous left-wing political argle-bargle."
+
+Appeal_to_fear-prejudice - The article appeals to fear by mentioning the endangerment of children, loved ones, and law enforcement officers due to the distribution of 3D gun blueprints.
+
+Doubt - The article casts doubt on the judge's decision by stating that the stay will likely be overturned on appeal or by the Supreme Court.

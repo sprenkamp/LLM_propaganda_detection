@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "state sponsored torture programs" and "darkest chapters in American history" which carry strong emotional impact.
+
+Name_Calling,Labeling - The article refers to the CIA's interrogation program as "so-called 'enhanced interrogation techniques'" which implies a negative connotation.
+
+Exaggeration,Minimisation - The article states that the government "squandered precious moral authority in a futile effort to produce intelligence by means of torture," which exaggerates the negative consequences of the interrogation program.
+
+Appeal_to_fear-prejudice - The article implies that Haspel's nomination could lead to a return to torture practices, instilling fear in the audience.
+
+Doubt - The article questions Haspel's suitability for the position by stating, "Ms. Haspel needs to explain the nature and extent of her involvement in the CIA’s interrogation program during the confirmation process."

@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "war is deceit" and "ever the victim" to create a negative emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to the imam as engaging in "war is deceit" action, which labels him as deceitful and manipulative.
+
+Exaggeration,Minimisation - The article minimizes the imam's concerns by suggesting that the situation is only about journalists who supposedly hate Islam and Muslims.
+
+Appeal_to_fear-prejudice - The article implies that the imam's son was training school shooters, which can instill fear and prejudice in the reader.
+
+Doubt - The article casts doubt on the imam's claims by suggesting that the situation is being used as propaganda against Muslims and that authorities should not have made their claims without stronger evidence.

@@ -1,0 +1,17 @@
+Loaded_Language - The article uses emotionally charged phrases such as "mothers hiring hitmen to murder their babies" and "frivolous lawsuit" to evoke strong reactions from the audience.
+
+Name_Calling,Labeling - The article refers to the opposing ideology as "Communist ideology" rather than addressing the actual argument, creating a negative association.
+
+Repetition - The article repeatedly emphasizes that the plans for 3D-printed guns are protected under the First Amendment and that the judge and attorney generals are not fit for their positions.
+
+Exaggeration,Minimisation - The article exaggerates the opposing side's argument by claiming they have "absolutely no problem" with certain controversial actions, while minimizing the concerns about 3D-printed guns.
+
+Appeal_to_fear-prejudice - The article appeals to fear by mentioning the dangers of unregulated 3D-printed guns and the potential consequences of the judge's decision.
+
+Flag-Waving - The article appeals to patriotism by stating that the opposing side's argument is based on "Communist ideology" rather than "American" values.
+
+Causal_Oversimplification - The article simplifies the issue by focusing solely on the First and Second Amendments, ignoring other factors and concerns related to 3D-printed guns.
+
+Black-and-White_Fallacy - The article presents the issue as a clear-cut choice between supporting the First and Second Amendments or infringing on people's rights, without considering other possible solutions or perspectives.
+
+Doubt - The article questions the credibility and fitness of the federal judge and attorney generals involved in the case, casting doubt on their decisions and motivations.

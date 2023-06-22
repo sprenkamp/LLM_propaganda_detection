@@ -1,0 +1,21 @@
+Loaded_Language - The article uses phrases like "Mueller circus," "grim face of Robert Mueller," and "Roman circus" to evoke strong emotions and create a negative image of the Mueller investigation.
+
+Repetition - The term "circus" is repeated multiple times throughout the article, reinforcing the idea that the investigation is a chaotic and disorganized spectacle.
+
+Exaggeration,Minimisation - The article exaggerates the financial gains made by media outlets like the Washington Post and the New York Times, claiming they made "ten times" more than the cost of the investigation, while minimizing the importance of the investigation itself.
+
+Appeal_to_fear-prejudice - The article suggests that the investigations are being used to "punish the voting public for electing Trump," instilling fear and resentment in the audience.
+
+Flag-Waving - The article implies that the investigations are an attack on President Trump and his supporters, playing on the strong political feelings of the audience.
+
+Causal_Oversimplification - The article assumes that the sole purpose of the investigations is to undermine Trump and prevent him from implementing reforms, ignoring other possible reasons for the investigations.
+
+Thought-terminating_Cliches - The phrase "Never underestimate the power of the swamp's spite" discourages critical thought and dismisses the possibility of legitimate reasons for the investigations.
+
+Whataboutism,Straw_Men,Red_Herring - The article focuses on the financial gains made by media outlets and the alleged political motivations behind the investigations, rather than addressing the substance of the investigations themselves.
+
+Black-and-White_Fallacy - The article presents the situation as a battle between Trump and his opponents, ignoring the possibility of more nuanced perspectives or motivations.
+
+Bandwagon,Reductio_ad_hitlerum - The article implies that the investigations are part of a larger "resistance" movement against Trump, suggesting that they are driven by groupthink and tribalism.
+
+Doubt - The article questions the credibility and motivations of the investigators, casting doubt on the legitimacy of the investigations.

@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "Don Juan-like seductions" and "global scrutiny" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to Bill Clinton as "more famous for his Don Juan-like seductions than for his policy legacy," which is a negative label that highlights his infidelity.
+
+Exaggeration,Minimisation - The article states that Clinton "portrayed himself, not Lewinsky, as history's victim," which exaggerates his stance in the interview.
+
+Appeal_to_fear-prejudice - The article implies that Clinton's affair with Lewinsky could have been a "gross abuse of power," which could instill fear or prejudice in the reader.
+
+Flag-Waving - The article mentions that Clinton's affair took place "just a few feet from the Oval Office," which could evoke a sense of national pride or shame in the reader.
+
+Causal_Oversimplification - The article suggests that Clinton's affair with Lewinsky led to his financial ruin, which oversimplifies the various factors that contributed to his financial situation.
+
+Doubt - The article questions whether Clinton's apology was sufficient, asking if he owes Lewinsky a personal apology, which casts doubt on his sincerity.

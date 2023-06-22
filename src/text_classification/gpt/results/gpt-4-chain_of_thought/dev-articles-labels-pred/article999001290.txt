@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "badgering of the White House press secretary" and "strong, lying, propagandizing press" to create an emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to Jim Acosta as someone who "can't act like a child and keep your pass," which is a negative label.
+
+Exaggeration,Minimisation - The article minimizes the importance of the judge's ruling by saying "it's not a big deal" and suggesting that the White House should simply ignore Acosta's questions.
+
+Appeal_to_fear-prejudice - The article implies that if Acosta is allowed to continue his behavior, other reporters will be unable to ask questions, creating a sense of fear for the future of press conferences.
+
+Causal_Oversimplification - The article suggests that the only reason for the judge's ruling is a misunderstanding of the difference between rights and privileges, oversimplifying the legal reasoning behind the decision.
+
+Doubt - The article questions the credibility of the judge's ruling by stating that "the Fifth Amendment has no business being brought up here" and suggesting that the decision is not based on a proper understanding of the law.

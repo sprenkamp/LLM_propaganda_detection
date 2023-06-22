@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "frivolous ruling," "dangerous precedent," and "ridiculous demand" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The author refers to Judge Timothy J. Kelly as someone who "should be impeached" and calls Jim Acosta's behavior "childish."
+
+Repetition - The question "Should Jim Acosta have gotten his press pass back?" is repeated three times in a row, emphasizing the author's disapproval of the decision.
+
+Exaggeration,Minimisation - The author exaggerates the consequences of the White House's decision to comply with the ruling, stating that it sets a "dangerous precedent."
+
+Appeal_to_fear-prejudice - The article implies that the White House's submission to the ruling is a threat to the Constitution and the country's values.
+
+Causal_Oversimplification - The author blames Jim Acosta's behavior for the need to create explicit rules for White House press conduct, ignoring other potential factors.
+
+Doubt - The article questions the credibility of Judge Timothy J. Kelly and his understanding of the Constitution.

@@ -1,0 +1,19 @@
+Loaded_Language - The article uses phrases like "violent attack on public institutions" and "religious prophecy" to create an emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to the group as "New Mexico Jihadis" which is a label that carries a negative connotation.
+
+Repetition - The phrase "if they were white Christians" is repeated multiple times throughout the article, emphasizing the idea that the situation would be different if the group were white Christians.
+
+Exaggeration,Minimisation - The defense attorney's statement that "no one would bat an eye" if the suspects were white Christians is an exaggeration, as it is unlikely that no one would care about the situation if the group were white Christians.
+
+Appeal_to_fear-prejudice - The article appeals to fear and prejudice by mentioning the group's plan to prepare for "violent attacks on government, military, educational and financial institutions."
+
+Flag-Waving - The defense attorney's statement that "if these were white Christians, faith healing is of no consequence because we have freedom of religion in this country" plays on the idea of American values and freedom of religion.
+
+Causal_Oversimplification - The defense attorney's argument that the charges are motivated by racial and religious prejudice against his Muslim client oversimplifies the situation, as there may be other factors at play.
+
+Whataboutism,Straw_Men,Red_Herring - The defense attorney's argument that if the suspects were white Christians, no one would care about the situation is an attempt to discredit the charges against the group without directly disproving their actions.
+
+Black-and-White_Fallacy - The defense attorney's argument that if the suspects were white Christians, no one would care about the situation presents a black-and-white fallacy, as there may be other factors at play.
+
+Doubt - The defense attorney's statement that "if these were white people of a Christian faith who owned guns, that's not a big deal because there's a Second Amendment right to own firearms in this country" questions the credibility of the charges against the group.

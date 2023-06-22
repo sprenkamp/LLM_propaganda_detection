@@ -1,0 +1,25 @@
+Loaded_Language - The article uses emotionally charged phrases such as "tyrannical arrest and imprisonment" and "Islamisation" to create a strong emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to Tommy Robinson as an "outspoken critic of Islam" and an "exposer of their crimes," which labels him in a way that the audience may either love or hate.
+
+Repetition - The article repeatedly emphasizes the injustice of Tommy Robinson's imprisonment and the dangers of Islam, reinforcing these ideas in the reader's mind.
+
+Exaggeration,Minimisation - The article exaggerates the number of supporters at the rally, claiming "upwards of 20,000" attended, and minimizes the legal reasons for Tommy Robinson's imprisonment by focusing on his views and statements.
+
+Appeal_to_fear-prejudice - The article builds support for Tommy Robinson and his views by instilling fear and prejudice against Islam and the UK government, suggesting they are complicit in crimes committed by Muslims.
+
+Flag-Waving - The article plays on strong national feelings by suggesting that the UK government is betraying the British people and their traditional way of life by submitting to Islam.
+
+Causal_Oversimplification - The article assumes that the UK government's fear of Islamists is the single reason for the problems it discusses, ignoring other possible factors.
+
+Appeal_to_Authority - The article cites the opinions of various political figures and activists to support its claims, such as Geert Wilders and Anne Marie Waters.
+
+Slogans - The article uses slogans like "Free Tommy Robinson!" to rally support for its cause.
+
+Whataboutism,Straw_Men,Red_Herring - The article attempts to discredit the UK government by pointing out their perceived hypocrisy in imprisoning Tommy Robinson while not addressing other issues related to Islam and crime.
+
+Black-and-White_Fallacy - The article presents the situation as a struggle between good and evil, with Tommy Robinson on the side of good and the UK government and Islam on the side of evil.
+
+Bandwagon,Reductio_ad_hitlerum - The article implies that the large number of supporters at the rally is evidence of the validity of their cause.
+
+Doubt - The article questions the credibility of the UK government and its actions, asking rhetorical questions like "Why is it so easy for our state to jail Tommy Robinson, when it is so difficult to jail a group of men found with an underage girl in a bedroom?"

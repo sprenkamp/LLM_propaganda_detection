@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "silence people who dissent from establishment views" and "unquestioned access to the minds of more than 2 billion people" to create a strong emotional impact on the reader.
+
+Exaggeration,Minimisation - The article exaggerates the impact of the alternative media purge by stating that it will give those who hate freedom "unquestioned access to the minds of more than 2 billion people."
+
+Appeal_to_fear-prejudice - The article builds support for the idea that the alternative media purge is a threat to freedom by instilling fear in the reader, suggesting that this will lead to a monopoly on information and brainwashing of the population.
+
+Black-and-White_Fallacy - The article presents the situation as either having complete freedom of information or a complete monopoly on information, without considering other possibilities or nuances.
+
+Doubt - The article questions the credibility of Facebook's reasons for removing alternative media accounts, suggesting that their given reasons "don't really add up."

@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "Muslim Brotherhood Congressman Hakim Muhammad" and "pure politically-motivated hypocrisy" which carry strong emotional impact and can affect the audience's perception of the subject.
+
+Name_Calling,Labeling - The article refers to Keith Ellison as "Muslim Brotherhood Congressman Hakim Muhammad" which is a label that the audience may have strong feelings about.
+
+Exaggeration,Minimisation - The article states "there is absolutely no evidence whatsoever that Brett Kavanaugh abused Christine Blasey Ford" which minimizes the allegations against Kavanaugh while emphasizing the allegations against Ellison.
+
+Appeal_to_fear-prejudice - The article implies that Ellison's association with the Muslim Brotherhood is a reason to believe the allegations against him, playing on potential fears and prejudices of the audience.
+
+Whataboutism,Straw_Men,Red_Herring - The article compares the allegations against Ellison to those against Kavanaugh, attempting to discredit the Democrats' position on Kavanaugh by pointing out their perceived hypocrisy regarding Ellison.
+
+Doubt - The article questions the credibility of Keith Ellison by highlighting the allegations against him and his refusal to meet with the accuser during the investigation.

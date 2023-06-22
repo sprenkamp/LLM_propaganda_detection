@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "armed Muslim extremists," "deplorable living conditions," and "horrifying compound" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article labels the men running the compound as "extremist[s] of the Muslim belief," which can create a negative association with the Muslim faith.
+
+Appeal_to_fear-prejudice - The article emphasizes the fact that the compound was run by "armed Muslim extremists," which can instill fear and prejudice in the reader.
+
+Exaggeration,Minimisation - The article focuses on the extreme conditions of the compound and the heavily armed men, potentially exaggerating the threat they posed.
+
+Doubt - The article questions the credibility of the men running the compound by describing them as "extremist[s] of the Muslim belief" and heavily armed, casting doubt on their intentions.

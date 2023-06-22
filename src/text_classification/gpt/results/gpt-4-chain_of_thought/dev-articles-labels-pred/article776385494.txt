@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "lone wolf" gunman and "menace to society" which carry strong emotional impact and can affect the audience's perception of the issue.
+
+Name_Calling,Labeling - The article refers to Cody Wilson's actions as "dangerous and reckless," which can create a negative image of him in the reader's mind.
+
+Repetition - The article repeatedly mentions the potential dangers of 3D-printed firearms, such as them being "untraceable, undetectable plastic weapons," which can reinforce the idea that they are a significant threat.
+
+Exaggeration,Minimisation - The article states that "there is simply no way of telling how much damage has already been done by Cody Wilson's dangerous and reckless actions," which may exaggerate the potential harm caused by the publication of the blueprints.
+
+Appeal_to_fear-prejudice - The article appeals to fear by emphasizing the potential dangers of 3D-printed firearms, such as them falling into the wrong hands or being used by "lone wolf" gunmen.
+
+Doubt - The article questions the credibility of Cody Wilson's actions and intentions by labeling them as "dangerous and reckless" and suggesting that he is fighting a losing legal battle.

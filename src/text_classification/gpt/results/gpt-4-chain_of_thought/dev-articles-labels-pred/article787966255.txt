@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "special treatment," "insidious," and "egregiously" to create a strong emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to Amber Guyger as a "killer cop" and implies that she is a threat to the residents of the apartment complex.
+
+Exaggeration,Minimisation - The article states that residents can "sleep better knowing that they don’t have to fear a killer cop walking into their apartment and murdering them," which exaggerates the situation and minimizes the fact that this was an isolated incident.
+
+Appeal_to_fear-prejudice - The article appeals to the fear of police officers receiving special treatment and getting away with crimes, as well as the fear of being a victim of police violence.
+
+Doubt - The article questions the credibility of the investigation and the police department by highlighting the lack of a search warrant for Guyger's apartment and the release of information about Jean's apartment.

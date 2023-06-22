@@ -1,0 +1,17 @@
+Loaded_Language - The article uses phrases like "lying through their Communist teeth" and "booming voice of your hypocrisy" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to CNN as the "Clown News Network," which is a derogatory label meant to discredit the news organization.
+
+Repetition - The article repeatedly accuses various media outlets and individuals of lying, reinforcing the idea that they are dishonest and untrustworthy.
+
+Exaggeration,Minimisation - The article exaggerates the importance of the video incident, using it as evidence of widespread media dishonesty and bias.
+
+Appeal_to_fear-prejudice - The article implies that the media and "fact checkers" are part of a larger conspiracy against President Trump and his administration, instilling fear and distrust in the reader.
+
+Flag-Waving - The article positions itself as a defender of truth and freedom, contrasting its own reporting with the alleged dishonesty of mainstream media outlets.
+
+Causal_Oversimplification - The article suggests that the video incident is a clear example of media bias and dishonesty, ignoring the complexities of the situation and the broader context of media reporting.
+
+Whataboutism,Straw_Men,Red_Herring - The article brings up unrelated issues, such as the author's legal dispute with MediaBiasFactCheck.com, to discredit the credibility of media outlets and fact-checking organizations.
+
+Doubt - The article questions the credibility of various media outlets, fact-checking organizations, and individuals, casting doubt on their honesty and reliability.

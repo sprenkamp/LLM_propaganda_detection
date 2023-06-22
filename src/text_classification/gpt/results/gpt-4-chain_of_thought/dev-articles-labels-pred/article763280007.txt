@@ -1,0 +1,19 @@
+Loaded_Language - The article uses emotionally charged phrases such as "mass immigration," "Islamization," "open borders," "foreigners in our own lands," and "tyranny" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article labels the British government as "authoritarian" and "unwilling to uphold the freedom of speech," creating a negative image of the government.
+
+Repetition - The phrase "no more" is repeated multiple times in the article, emphasizing the message of resistance against the government's actions.
+
+Exaggeration,Minimisation - The article exaggerates the situation by stating that the imprisonment of Tommy Robinson heralds "the death of Britain as a free society" and the beginning of an "authoritarian police state."
+
+Appeal_to_fear-prejudice - The article instills fear in the reader by suggesting that the British government is willing to incarcerate people for having opinions it considers unacceptable, leading to the loss of freedom in society.
+
+Flag-Waving - The article appeals to the reader's sense of national pride by stating that "we will defend our civilization" and "we will protect our people."
+
+Causal_Oversimplification - The article assumes that the British government's actions are solely responsible for the current situation, without considering other factors that may have contributed to it.
+
+Black-and-White_Fallacy - The article presents the situation as a battle between the people and the government, with no room for compromise or alternative solutions.
+
+Bandwagon,Reductio_ad_hitlerum - The article encourages the reader to join the movement against the government by stating that "for every Tommy whom you imprison, thousands will rise up."
+
+Doubt - The article questions the credibility of the British government by highlighting its inconsistent actions regarding the admission of controversial figures into the country.

@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "testy exchange" and "public confrontations" to describe the interactions between Acosta and Trump, which carry a negative emotional impact.
+
+Name_Calling,Labeling - The article mentions Trump's characterization of CNN's coverage as "fake news," which is a label that the audience may either hate or love.
+
+Exaggeration,Minimisation - The article states that the White House described Acosta's behavior as "rude and aggressive," which could be seen as an exaggeration of his actions during the press conference.
+
+Appeal_to_Authority - The article quotes Mark Lukasiewicz, dean of The Lawrence Herbert School of Communication at Hofstra University and a former network news executive, to support the judge's decision and provide credibility to the argument.
+
+Doubt - The article questions the White House's reasoning for revoking Acosta's press credential by mentioning that it was "the latest in a series of public confrontations between Acosta and Trump" and that the suspension of Acosta's credential "violates the First Amendment's protection of free speech."

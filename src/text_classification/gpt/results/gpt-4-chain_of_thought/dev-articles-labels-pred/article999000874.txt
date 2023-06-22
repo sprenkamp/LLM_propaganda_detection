@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "an argumentative Acosta who refused to hand the mic over to the female intern forcefully pushing her arm away" and "Acosta was out of line" which carry strong emotional impact and can affect the audience's perception of the situation.
+
+Name_Calling,Labeling - The article refers to Acosta's behavior as "absolutely unacceptable" and implies that he was acting like a child, which can create a negative image of him in the reader's mind.
+
+Exaggeration,Minimisation - The article exaggerates the interaction between Acosta and the intern by stating that he "forcefully pushed her arm away" and "refused to hand the mic over," while minimizing the fact that the video evidence is disputed.
+
+Appeal_to_fear-prejudice - The article mentions the migrant caravan and Trump's characterization of it as "an invasion," which can instill fear and anxiety in the audience.
+
+Doubt - The article questions the credibility of Acosta by focusing on his behavior during the press conference and the revocation of his press pass, asking "Should Jim Acosta have gotten his press pass back?"

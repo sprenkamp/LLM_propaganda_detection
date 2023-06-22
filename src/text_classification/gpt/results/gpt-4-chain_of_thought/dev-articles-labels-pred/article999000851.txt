@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "thanks to his antics and confrontations" and "due to his misbehavior" to describe Jim Acosta's actions, which carry a negative emotional impact.
+
+Name_Calling,Labeling - The article refers to Acosta's behavior as "misbehavior" and implies that he acted like a child, which are negative labels.
+
+Exaggeration,Minimisation - The article states that Acosta "physically prevented a White House intern from taking the microphone away from him," which may be an exaggeration of the actual event.
+
+Appeal_to_fear-prejudice - The article implies that the new rules for White House correspondents are a result of Acosta's actions, potentially instilling fear or resentment towards him among other journalists.
+
+Doubt - The article questions whether Jim Acosta should have gotten his press pass back, casting doubt on his credibility as a journalist.

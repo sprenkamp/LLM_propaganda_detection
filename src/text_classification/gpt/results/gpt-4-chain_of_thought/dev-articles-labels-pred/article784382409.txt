@@ -1,0 +1,15 @@
+Loaded_Language - The article uses phrases like "flee like a frightened puppy" and "demonic teachings of Muhammad in the Koran" to evoke strong emotions in the reader.
+
+Name_Calling,Labeling - The article refers to Keith Ellison as "Hakim Muhammad" and "Communist-backed, Muslim, accused woman abuser" to create a negative image of him.
+
+Repetition - The article repeatedly mentions the abuse allegations against Ellison, emphasizing the claims made by the women.
+
+Exaggeration,Minimisation - The article exaggerates Ellison's actions by saying he "fled like a frightened puppy" and minimizes his side of the story by not providing any context or explanation for his actions.
+
+Appeal_to_fear-prejudice - The article appeals to fear by suggesting that Ellison's potential election as Minnesota's AG would be a threat to justice and public safety.
+
+Flag-Waving - The article implies that Ellison's alleged actions are un-American by associating him with communism and Islam.
+
+Causal_Oversimplification - The article suggests that Ellison's alleged actions can be explained by his religious beliefs, ignoring any other potential factors.
+
+Doubt - The article questions Ellison's credibility by repeatedly mentioning the abuse allegations and his unwillingness to address them publicly.

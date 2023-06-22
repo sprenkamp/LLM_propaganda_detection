@@ -1,0 +1,11 @@
+Loaded_Language
+Repetition
+Exaggeration,Minimisation
+Appeal_to_fear-prejudice
+Causal_Oversimplification
+Appeal_to_Authority
+Thought-terminating_Cliches
+Whataboutism,Straw_Men,Red_Herring
+Black-and-White_Fallacy
+Bandwagon,Reductio_ad_hitlerum
+Doubt

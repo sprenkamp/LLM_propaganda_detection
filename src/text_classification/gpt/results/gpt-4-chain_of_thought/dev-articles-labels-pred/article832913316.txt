@@ -1,0 +1,7 @@
+Loaded_Language - The phrase "Should Barr announce his intention to cover up Mueller’s report" implies that Barr might have a hidden agenda to conceal the report, which carries a negative connotation.
+
+Name_Calling,Labeling - The article refers to MoveOn.org as a "liberal activist group," which can be seen as labeling the group with a political bias.
+
+Appeal_to_fear-prejudice - The statement from MoveOn.org, "we will not allow Congress to abdicate its responsibility under the Constitution," implies that there is a threat to the Constitution if the report is not made public, which can instill fear in the audience.
+
+Doubt - The phrase "we will not allow Trump or his hand-picked attorney general to get away with obstructing this criminal investigation" casts doubt on the intentions of Trump and his attorney general, suggesting they might try to obstruct the investigation.

@@ -1,0 +1,4 @@
+Loaded_Language
+Name
+Exaggeration,Minimisation
+Band

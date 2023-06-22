@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "world-on-fire, Russians everywhere State Department shenanigans" and "Clinton City" to evoke strong emotions and create a negative image of the subjects.
+
+Name_Calling,Labeling - The article refers to Mike Pompeo as "former top spook" and Gina Haspel as a "big fan of torture," using labels to create a negative impression of them.
+
+Exaggeration,Minimisation - The article exaggerates the similarities between Pompeo and Clinton by saying "If you enjoyed Hillary Clinton’s tenure as Secretary of State, you’ll like Pompeo’s" and minimizes the differences between their policies.
+
+Appeal_to_fear-prejudice - The article instills fear by mentioning the possibility of a "Russian proxy war" and suggesting that the appointment of Pompeo and Haspel will lead to a continuation of controversial policies from the Bush and Obama eras.
+
+Causal_Oversimplification - The article implies that the appointment of Pompeo and Haspel will result in a continuation of Bush/Obama-era policies, oversimplifying the complex factors that influence foreign policy and intelligence decisions.
+
+Doubt - The article questions the credibility of Pompeo and Haspel by highlighting their controversial past statements and actions, casting doubt on their ability to effectively serve in their new roles.

@@ -1,0 +1,17 @@
+Loaded_Language - The article uses phrases like "Humanity's WIPEOUT Foreshadowed?" and "terrible" to create a strong emotional impact on the reader.
+
+Repetition - The article repeats the idea that a global pandemic is imminent and that humanity is unprepared for it, reinforcing the message.
+
+Exaggeration,Minimisation - The article exaggerates the potential impact of a future pandemic by comparing it to the 1918 Spanish flu, which claimed 50 million lives.
+
+Appeal_to_fear-prejudice - The article builds support for the idea of a global pandemic by instilling anxiety and panic in the audience, suggesting that no one will be prepared for it when it hits.
+
+Causal_Oversimplification - The article assumes that a mutated strain of flu is the most likely cause of a future pandemic, without considering other potential causes or factors.
+
+Appeal_to_Authority - The article cites Dr. Tedros Adhanom, director-general for WHO, and Dr. Sylvie Brand, a WHO specialist in infectious diseases, as authorities on the subject of pandemics.
+
+Thought-terminating_Cliches - The article uses phrases like "we know it will take a terrible toll" and "the world remains vulnerable" to discourage critical thought and discussion about the topic.
+
+Whataboutism,Straw_Men,Red_Herring - The article introduces the idea of a sinister W.H.O. agenda, suggesting that the organization is promoting fear to push for the acceptance of unsafe vaccines, without directly addressing the issue of a potential pandemic.
+
+Doubt - The article questions the credibility of the W.H.O. and its agenda, casting doubt on the organization's intentions and motives.

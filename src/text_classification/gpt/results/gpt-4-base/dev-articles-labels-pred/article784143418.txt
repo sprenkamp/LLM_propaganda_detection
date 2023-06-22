@@ -1,0 +1,7 @@
+Loaded_Language
+Name_Calling,Labeling
+Repetition
+Exaggeration,Minimisation
+Appeal_to_fear-prejudice
+Causal_Oversimplification
+Doubt

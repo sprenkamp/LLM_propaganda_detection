@@ -1,0 +1,11 @@
+Loaded_Language - The article uses emotionally charged phrases such as "repugnant and outright disrespectful move" and "innocent 26-year-old pillar of society" to influence the reader's emotions.
+
+Name_Calling,Labeling - The article refers to Ted Cruz's statement as a "repugnant and outright disrespectful move," which labels Cruz negatively.
+
+Exaggeration,Minimisation - The article exaggerates the situation by stating that Cruz "went to bat for Amber Guyger" when he simply expressed caution about jumping to conclusions.
+
+Appeal_to_fear-prejudice - The article implies that the police and their apologists are treating Guyger differently because she is part of the system, instilling fear and prejudice towards law enforcement.
+
+Black-and-White_Fallacy - The article presents the situation as a case of right versus wrong, without considering the complexities of the case and the ongoing investigation.
+
+Doubt - The article questions the credibility of law enforcement and their handling of the case, suggesting a smear campaign and bias in favor of Guyger.

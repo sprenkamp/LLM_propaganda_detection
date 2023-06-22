@@ -1,0 +1,9 @@
+Loaded_Language - The article uses phrases like "Accused Woman Abuser" and "effeminate pansy" to create a strong emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to Keith Ellison as an "effeminate pansy," which is a derogatory term meant to discredit him.
+
+Exaggeration,Minimisation - The article minimizes the seriousness of the allegations against Brett Kavanaugh by comparing them to the allegations against Keith Ellison, stating that "We do have a police report, unlike the accusations against Brett Kavanaugh."
+
+Appeal_to_fear-prejudice - The article implies that Ellison is a threat to the American people by stating that "he simply does not want to answer to the American people and even seeks security to hide from a female report with a mic and a camera."
+
+Doubt - The article questions the credibility of the investigation into the allegations against Ellison by stating that "The Democratic Party’s choice of Ellingstad to conduct the investigation was met with derision from many who said she is not independent."

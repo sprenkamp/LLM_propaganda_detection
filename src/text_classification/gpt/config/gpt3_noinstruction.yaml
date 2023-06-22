@@ -1,0 +1,8 @@
+base_model_name: davinci
+instruction: False  
+model_name: davinci:ft-personal-2023-06-15-10-43-03 #NOTE this model will not work as it is a private model, a own model needs to be trained and the name needs to be changed here
+prompt_type: noinstruction
+train_data_path: data/propaganda/text_classification/split-articles/train-articles
+train_label_path: data/propaganda/text_classification/split-articles/train-labels
+val_data_path: data/propaganda/text_classification/split-articles/dev-articles
+val_label_path: data/propaganda/text_classification/split-articles/dev-labels

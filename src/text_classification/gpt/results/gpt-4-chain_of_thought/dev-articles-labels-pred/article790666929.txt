@@ -1,0 +1,13 @@
+Loaded_Language - The article uses phrases like "corrupt party in Chicago" and "lawless party" to create a negative emotional impact on the reader.
+
+Name_Calling,Labeling - The article refers to the Democratic party as "corrupt" and "lawless," which are labels that the audience may either hate or love.
+
+Repetition - The article repeats the phrase "Who should replace Nikki Haley as our ambassador to the U.N.?" three times, which may make the reader more likely to accept the idea that someone should replace her.
+
+Exaggeration,Minimisation - The article exaggerates the impact of unsealing divorce records by stating that it led to Ryan's resignation and Obama's victory, while minimizing the importance of the records themselves.
+
+Appeal_to_fear-prejudice - The article implies that unsealing the divorce records could reveal damaging information about Keith Ellison, which may instill fear or prejudice in the reader.
+
+Whataboutism,Straw_Men,Red_Herring - The article brings up the unrelated case of Barack Obama and Jack Ryan's divorce records to discredit the Democratic party and Keith Ellison without directly disproving their arguments.
+
+Doubt - The article questions the credibility of Keith Ellison by mentioning the allegations of domestic abuse and the ongoing investigation.

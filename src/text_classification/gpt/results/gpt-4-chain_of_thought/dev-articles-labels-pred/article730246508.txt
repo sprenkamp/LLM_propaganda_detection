@@ -1,0 +1,7 @@
+Loaded_Language - The article uses phrases like "true American heroes" and "two of the best we had" to describe the fallen officers, evoking strong emotions in the reader.
+
+Exaggeration,Minimisation - The police chief's statement, "there’s a special place in hell for those people, and my wish is that it comes very soon" exaggerates the consequences for those who have threatened the department or created fake fundraising pages.
+
+Appeal_to_Authority - The article quotes President Donald Trump and Ohio Governor John Kasich expressing condolences and emphasizing the tragedy of the situation, lending credibility to the story.
+
+Black-and-White_Fallacy - The police chief's statement about a "special place in hell" for those who have threatened the department or created fake fundraising pages presents a stark contrast between the "good" officers and the "bad" people who have caused harm, without acknowledging any potential middle ground or alternative perspectives.

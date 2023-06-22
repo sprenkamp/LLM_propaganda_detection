@@ -1,0 +1,11 @@
+Loaded_Language - The article uses phrases like "Acosta ignorantly blathered on" and "Acosta belligerently refused" which carry strong emotional impact and portray Acosta in a negative light.
+
+Name_Calling,Labeling - The article refers to Acosta as "unbelievably rude" and "belligerent," which are negative labels meant to discredit him.
+
+Exaggeration,Minimisation - The article minimizes the importance of Acosta's hard pass being revoked by stating that it "isn’t exactly a grave hardship" and that "lacking a hard pass does not prevent anyone from reporting on the White House."
+
+Appeal_to_fear-prejudice - The article implies that Acosta's behavior threatens the rights of all journalists and news organizations, creating a sense of fear and urgency.
+
+Flag-Waving - The article appeals to the audience's patriotism by emphasizing the importance of First Amendment rights and the Constitution.
+
+Doubt - The article questions the credibility of Acosta and CNN by using phrases like "incorrectly claiming" and "Trump-hating Republican lawyer."

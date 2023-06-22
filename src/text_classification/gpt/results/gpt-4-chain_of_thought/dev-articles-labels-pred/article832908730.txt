@@ -1,0 +1,11 @@
+Loaded_Language - The phrase "total witch hunt" is used to describe the probe, which carries a strong emotional impact and implies that the investigation is baseless and politically motivated.
+
+Name_Calling,Labeling - Referring to Trump's former personal lawyer and fixer as "Cohen" instead of using his full name, Michael Cohen, can be seen as a subtle form of name-calling or labeling.
+
+Repetition - The article repeatedly mentions the various individuals and entities that have been indicted or have pleaded guilty, emphasizing the extent of the investigation and its impact on Trump's associates.
+
+Exaggeration,Minimisation - The statement "No Americans have been charged with conspiring with Russians to meddle in the 2016 elections—at least none the public knows about" minimizes the fact that no Americans have been charged with this specific crime, while also implying that there may be secret charges that the public is not aware of.
+
+Appeal_to_Authority - The article cites the Special Counsel's Office and various U.S. Attorney's Offices as sources of information, lending credibility to the claims made in the article.
+
+Bandwagon,Reductio_ad_hitlerum - The article mentions that "Congress has also launched several of its own probes into White House security clearances, Trump’s tax returns and possible obstruction of justice," implying that there is widespread agreement among lawmakers that these issues warrant investigation.

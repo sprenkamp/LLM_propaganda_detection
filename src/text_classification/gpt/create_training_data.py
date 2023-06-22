@@ -12,8 +12,6 @@ class Preprocessor:
     def load_config(self):    
         with open(self.config_path, 'r') as stream:
             self.model_config = yaml.safe_load(stream)
-
-    
         
     def prompt_gen(self):
         prompt_instruction = f"""You are a Text Classifier indetifying 14 Propaganda Techniques within News Paper Articles. These are the 14 propaganda techniques you classify with definitions and examples:

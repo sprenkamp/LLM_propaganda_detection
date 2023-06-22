@@ -22,7 +22,7 @@ class OpenAiTextClassificationPropagandaInference:
             self.model_config = yaml.safe_load(stream)
 
     def prompt_gen(self, input_text):
-        prompt_instruction = f"""You are a Text Classifier indetifying 14 Propaganda Techniques within News Paper Articles. These are the 14 propaganda techniques you classify with definitions and examples:
+        prompt_instruction = f"""You are a multi-label text classifier indetifying 14 propaganda techniques within news paper articles. These are the 14 propaganda techniques you classify with definitions and examples:
         Loaded_Language - Uses specific phrases and words that carry strong emotional impact to affect the audience, e.g. 'a lone lawmaker’s childish shouting.'
         Name_Calling,Labeling - Gives a label to the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
         Repetition -  Repeats the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
@@ -131,14 +131,13 @@ class OpenAiTextClassificationPropagandaInference:
                         line = line.strip()
                         true_label_file.append(line)
                 true_labels.append(true_label_file)
-
             pred_label_file = []
             allowed_labels = ['Appeal_to_Authority', 'Appeal_to_fear-prejudice', 'Bandwagon,Reductio_ad_hitlerum', 'Black-and-White_Fallacy', 'Causal_Oversimplification', 'Doubt', 'Exaggeration,Minimisation', 'Flag-Waving', 'Loaded_Language', 'Name_Calling,Labeling', 'Repetition', 'Slogans', 'Thought-terminating_Cliches', 'Whataboutism,Straw_Men,Red_Herring']
             with open(os.path.join(pred_label_path, filename), 'r', encoding="utf-8") as file:
                 if os.stat(os.path.join(pred_label_path, filename)).st_size == 0:
                     pred_labels.append(pred_label_file)
                 else:
-                    if self.model_config['prompt_type'] == 'base':
+                    if self.model_config['prompt_type'] in ['base', 'noinstruction']:
                         for line in file:
                             line = line.strip()
                             if line in allowed_labels:

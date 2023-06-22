@@ -2,11 +2,14 @@
 
 This repo shows how to replicate the results of our paper: Large Language Models for Propaganda Detection
 
-Further we provide a `reqiurements.txt` file, which allows to install the necessary python packages and dependencies. We tested the installation on a Linux based GPU cluster and a 2021 M1 Macbook Pro. To install the requirements we recommend create a new virtual environment and run:
+Further we provide a `reqiurements.txt` file, which allows to install the necessary python packages and dependencies. We tested the installation on a Linux based GPU cluster and a 2021 M1 Macbook Pro. To install the requirements, we recommend create a new virtual environment and run:
 
 `pip install -r requirements.txt`
 
-Further the API organization id and API key need to be added to the path
+Further, the API organization id and API key need to be added to the path, e.g.:
+
+`export OPENAI_ORGANIZATION="your_organization"
+export OPENAI_API_KEY="your_api_key"`
 
 Below we show step-by-step how to replicate our results:
 
@@ -22,11 +25,13 @@ Below we show step-by-step how to replicate our results:
 
 `python src/text_classification/gpt/create_training_data.py -c src/text_classification/gpt/config/gpt3_instruction_base.yaml`
 
-4. run the fine-tune jobs. First we validate the created .json file and split it into training and validation data, afterwards we train the model. Note for GPT-3 base and chain of thought we solely finetune one model with different prompts at inference.
+4. run the fine-tune jobs. First, we validate the created .json file and split it into training and validation data, afterwards we train the model. Note for GPT-3 base and chain of thought we solely finetune one model with different prompts at inference.
 
 `bash src/text_classification/gpt/fine-tune-gpt-3.sh`
 
-5. run inference and calculate metrics, for each of the five model combinations use the correct .yaml file. Under  
+5. run inference and calculate metrics for each of the five model combinations using the correct .yaml file. Under  `src/text_classification/gpt/results`. For the gpt-3 models, this will not work out of the box as the fine-tuned models are linked to a given account. An own model needs to be trained (step 4) and then the model_name needs to be adapted accordingly within the given .yaml
 
-`python `
+`python src/text_classification/gpt/inference.py -c src/text_classification/gpt/config/gpt4_base.yaml`
+
+
  

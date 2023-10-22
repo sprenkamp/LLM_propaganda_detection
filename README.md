@@ -1,4 +1,4 @@
-### EMNLP Submission 2023: Large Language Models for Propaganda Detection
+### Large Language Models for Propaganda Detection
 
 This repository demonstrates how to reproduce the results of our paper: Large Language Models for Propaganda Detection.
 
